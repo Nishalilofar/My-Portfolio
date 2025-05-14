@@ -152,8 +152,8 @@
     font-size: 1.8rem;
     font-weight: 700;
     margin: 0;
-    background: var(--gradient-1);
-    -webkit-text-fill-color: transparent;
+    font-family:"roboto";
+    
   }
   
   .profession {
